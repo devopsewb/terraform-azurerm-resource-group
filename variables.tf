@@ -1,7 +1,4 @@
 variable "location" {}
-
 variable "name" {}
-
-variable "tags" {
-  type = "list"
-}
+variable "environment" {}
+variable "cost_center" {}
